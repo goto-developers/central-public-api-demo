@@ -11,5 +11,7 @@ Directory: `sync-users`
 
 Show how the Public API can be used to create, delete, change permissions of users and how to change group membership.
 
+Read more at https://support.logmein.com/central/help/sync-your-users-to-logmein-central .
+
 [central]: https://secure.logmein.com
 [public-api-doc]: https://support.logmein.com/central/help/logmein-central-developer-center
