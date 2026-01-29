@@ -1,0 +1,14 @@
+[
+    { 
+        "Email": "john.doe@exmaple.com",
+        "Group": ""
+    },
+    {
+        "Email": "jane.smith@example.com",
+        "Group": ""
+    },
+    {
+        "Email": "fred.flintstone@example.com",
+        "Group": ""
+    }
+]

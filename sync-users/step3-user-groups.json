@@ -1,0 +1,14 @@
+[
+    { 
+        "Email": "john.doe@exmaple.com",
+        "Group": "Local Agents"
+    },
+    {
+        "Email": "fred.flintstone@example.com",
+        "Group": "Local Agents"
+    },
+    {
+        "Email": "jane.smith@example.com",
+        "Group": "Region - Europe"
+    }
+]
